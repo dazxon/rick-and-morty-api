@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dazxon/rick-and-morty-api.git/static/css/main.f5cb673a.css",
-    "main.js": "/dazxon/rick-and-morty-api.git/static/js/main.6790cbbe.js",
-    "index.html": "/dazxon/rick-and-morty-api.git/index.html",
-    "main.f5cb673a.css.map": "/dazxon/rick-and-morty-api.git/static/css/main.f5cb673a.css.map",
-    "main.6790cbbe.js.map": "/dazxon/rick-and-morty-api.git/static/js/main.6790cbbe.js.map"
+    "main.css": "/rick-and-morty-api/static/css/main.f5cb673a.css",
+    "main.js": "/rick-and-morty-api/static/js/main.6790cbbe.js",
+    "index.html": "/rick-and-morty-api/index.html",
+    "main.f5cb673a.css.map": "/rick-and-morty-api/static/css/main.f5cb673a.css.map",
+    "main.6790cbbe.js.map": "/rick-and-morty-api/static/js/main.6790cbbe.js.map"
   },
   "entrypoints": [
     "static/css/main.f5cb673a.css",
