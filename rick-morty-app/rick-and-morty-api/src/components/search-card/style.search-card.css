@@ -1,0 +1,62 @@
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.SearchBar {
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  display: flex;
+  background-color: beige;
+  border: 1px solid black;
+  border-radius: 5%;
+  width: 500px;
+  margin: 20px;
+  box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.61);
+  -webkit-box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.61);
+  -moz-box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.61);
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  z-index: 1;
+  transform: scale(1.5);
+}
+
+.container-image {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+
+.container-data {
+  width: 50%;
+}
